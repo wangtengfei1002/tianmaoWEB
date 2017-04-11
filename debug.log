@@ -1,0 +1,28 @@
+[0401/135023.878:ERROR:process_reader_win.cc(233)] ReadMemory at 0x50e3fe8 of 32768 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0401/135023.881:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_elf.dll
+[0401/135023.883:ERROR:process_reader_win.cc(233)] ReadMemory at 0x51a3fe8 of 32768 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0401/135023.883:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_elf.dll
+[0401/135023.961:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f3000 of 53248 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0401/135023.962:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0401/135023.962:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f3000 of 53248 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0401/135023.962:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0401/135023.964:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0401/135023.965:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0404/222756.967:ERROR:process_reader_win.cc(233)] ReadMemory at 0xda3fe8 of 32768 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0404/222756.970:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_elf.dll
+[0404/222757.027:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f3000 of 53248 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0404/222757.027:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0404/222757.028:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0405/084517.310:ERROR:process_reader_win.cc(233)] ReadMemory at 0x5123fe8 of 32768 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0405/084517.310:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_elf.dll
+[0405/084517.310:ERROR:process_reader_win.cc(233)] ReadMemory at 0x50e60000 of 64 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0405/084517.310:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_child.dll
+[0405/084517.373:ERROR:process_reader_win.cc(233)] ReadMemory at 0x953000 of 53248 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0405/084517.373:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0405/084517.388:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0405/090822.454:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0411/114124.897:ERROR:process_reader_win.cc(233)] ReadMemory at 0x56a3dd8 of 32768 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0411/114124.899:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.98\chrome_elf.dll
+[0411/114124.917:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7d3000 of 53248 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0411/114124.917:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0411/114124.918:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
